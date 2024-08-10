@@ -1,6 +1,6 @@
 An HTML, CSS, and JavaScript-based basic weather application is represented by this code. Below is an overview of each section: 
 
-Structure of HTML:
+#Structure of HTML:
 Head Section: External stylesheet links, such as those to a custom stylesheet (style.css), Google Fonts, and Font Awesome icons.
 "Weather APP" is the page's current title.
 
