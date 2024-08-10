@@ -1,6 +1,6 @@
 An HTML, CSS, and JavaScript-based basic weather application is represented by this code. Below is an overview of each section: 
 
-#Structure of HTML:
+Structure of HTML:
 Head Section: External stylesheet links, such as those to a custom stylesheet (style.css), Google Fonts, and Font Awesome icons.
 "Weather APP" is the page's current title.
 
@@ -21,3 +21,5 @@ Using the OpenWeatherMap API, this application retrieves and presents weather da
 To examine the current weather, users can input the name of the city and click the search button. 
 The weather information includes temperature, humidity, wind speed, and type (e.g., clear, cloudy, rain). 
 After the data is retrieved, the user interface refreshes with pertinent icons and conceals the loading GIF.
+
+links:https://master.d3dfzry4xflijv.amplifyapp.com/
