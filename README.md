@@ -21,5 +21,3 @@ Using the OpenWeatherMap API, this application retrieves and presents weather da
 To examine the current weather, users can input the name of the city and click the search button. 
 The weather information includes temperature, humidity, wind speed, and type (e.g., clear, cloudy, rain). 
 After the data is retrieved, the user interface refreshes with pertinent icons and conceals the loading GIF.
-
-links:https://master.d3dfzry4xflijv.amplifyapp.com/
